@@ -3,6 +3,8 @@
     "editor.fontSize": 18,
     "editor.wordWrap": "on",
     "terminal.integrated.fontSize": 17,
+    "breadcrumbs.enabled": true,
+    "emmet.triggerExpansionOnTab": true,
     "workbench.colorCustomizations": {
         "terminal.background":"#001100",
         "terminal.foreground":"#00BB00",
