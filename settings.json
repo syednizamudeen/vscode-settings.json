@@ -2,6 +2,7 @@
     "workbench.iconTheme": "vscode-icons",
     "editor.fontSize": 18,
     "editor.wordWrap": "on",
+    "editor.minimap.enabled": true,
     "terminal.integrated.fontSize": 17,
     "breadcrumbs.enabled": true,
     "emmet.triggerExpansionOnTab": true,
