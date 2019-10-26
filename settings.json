@@ -4,7 +4,7 @@
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true,
     "terminal.integrated.fontSize": 17,
-    "breadcrumbs.enabled": true,
+    "breadcrumbs.enabled": false,
     "emmet.triggerExpansionOnTab": true,
     "workbench.colorCustomizations": {
         "terminal.background":"#001100",
