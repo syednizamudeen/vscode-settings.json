@@ -44,6 +44,7 @@
         "composer.lock": true,
         "yarn.lock": true,
         "**/.vscode/**": true,
+        "**/vendor/**": true
     },
     "search.exclude": {
         "**/node_modules": true,
@@ -52,6 +53,7 @@
         "out*/**": true,
         "i18n/**": true,
         "extensions/**/out/**": true,
-        "*.min.js": true
+        "*.min.js": true,
+        "**/vendor": true
     }
 }
