@@ -3,6 +3,8 @@
     "editor.fontSize": 18,
     "editor.wordWrap": "on",
     "editor.minimap.enabled": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
     "terminal.integrated.fontSize": 17,
     "breadcrumbs.enabled": false,
     "emmet.triggerExpansionOnTab": true,
